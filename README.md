@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # youvision/think-imager
 
 基于 [Intervention Image](https://github.com/Intervention/image) v4 的 ThinkPHP 8 图片处理扩展。
